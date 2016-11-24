@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "last-at-here",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "Tracking when the last @here was mentioned.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,18 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "git+https://github.com/ricepat/easy-peasy-bot.git"
   },
   "keywords": [
     "slack",
+    "@here",
+    "here",
     "bot"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "Patrice Coleman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+    "url": "https://github.com/ricepat/easy-peasy-bot.git/issues"
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "homepage": "https://github.com/ricepat/easy-peasy-bot.git#readme",
   "engines": {
     "node": "5.1.1"
   },
